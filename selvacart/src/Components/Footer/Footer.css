@@ -1,0 +1,39 @@
+/* Footer.css */
+.footerWhite dt{
+    color: rgb(66, 66, 66);
+    font-size: small;
+}
+.footerWhite dd{
+    color: rgb(107, 107, 107);
+    font-size: small;
+    line-height: 20px;
+}
+
+.footerDark {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 75px 0;
+    width: 100%;
+    bottom: 0;
+    margin-top: -15px;
+  }
+  
+  .footer-content {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .footer-content p {
+    margin: 5px 0;
+  }
+  
+  .footer-content a {
+    color: #ff9800;
+    margin: 0 5px;
+  }
+  
+  .footer-content a:hover {
+    color: #ffc107;
+  }
+  

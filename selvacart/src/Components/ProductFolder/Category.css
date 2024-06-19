@@ -1,0 +1,39 @@
+.categoryDiv {
+    padding: 15px;
+  }
+  
+  .small-card {
+    width: 80%;
+    padding: 15px 10px;
+  }
+  
+  .small-card-title {
+    font-size: 1rem;
+  }
+  
+  .card-body {
+    padding: 10px;
+  }
+  
+  .card-img-top {
+    height: 150px;
+    width: 150px;
+    padding: 5px;
+  }
+  .custom-shadow {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Customize the shadow here */
+  }
+  
+  @media (max-width: 576px) {
+    .small-card-title {
+      font-size: 0.875rem;
+    }
+    .card-body {
+      padding: 5px;
+    }
+  
+    .categoryDiv {
+      padding: 5px;
+    }
+  }
+  
